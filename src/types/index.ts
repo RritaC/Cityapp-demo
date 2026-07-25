@@ -1,6 +1,22 @@
 export type Language = 'en' | 'sq'
 
-export type MunicipalityId = 'prishtina' | 'istog' | 'decan' | 'fushe-kosove'
+export type MunicipalityId =
+  | 'prishtina'
+  | 'prizren'
+  | 'peja'
+  | 'gjakova'
+  | 'mitrovica'
+  | 'gjilan'
+  | 'ferizaj'
+  | 'podujeva'
+  | 'istog'
+  | 'decan'
+  | 'fushe-kosove'
+  | 'vushtrri'
+  | 'suhareka'
+  | 'lipjan'
+  | 'obiliq'
+  | 'drenas'
 
 export type AlertType = 'Critical' | 'Maintenance' | 'Information'
 

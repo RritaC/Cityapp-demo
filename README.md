@@ -43,7 +43,7 @@ npm run preview  # Preview the production build
 
 ## Municipalities
 
-Prishtina · Istog · Deçan · Fushë Kosovë
+Prishtina · Prizren · Peja · Gjakova · Mitrovica · Gjilan · Ferizaj · Podujeva · Istog · Deçan · Fushë Kosovë · Vushtrri · Suhareka · Lipjan · Obiliq · Drenas
 
 ## Demo mode
 
